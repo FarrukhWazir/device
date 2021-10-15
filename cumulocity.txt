@@ -1,0 +1,39 @@
+19810409 jojo pc
+
+https://www.zoho.com/mail/
+farrukh@altitude.com.my
+farhi@070
+
+admin
+dha12345
+192.168.8.108
+
+TV creds
+1252215721
+gallagher
+
+1702434455
+cumulocity
+G@cs2020
+
+https://ska.cumulocity.com/apps/devicemanagement/index.html
+user = dani@skais.com.my
+password = c8Y4ska!
+tenant = t423154829
+
+
+192.168.1.108 / 6F0E801PAG41728
+
+192.168.1.40 / 5K0A313PAG6C2B3
+
+
+
+https://cumulocity.com/guides/10.5.0/device-sdk/mqtt/#mqtt-static-templates
+
+https://cumulocity.com/guides/device-sdk/mqtt-examples/
+
+http://resources.cumulocity.com/documentation/websdk/ng1-modules/#/api
+
+https://github.com/futomi/node-onvif#Quick-Start-1
+
+https://bitbucket.org/m2m/cumulocity-ui-plugin-examples/src/master/
